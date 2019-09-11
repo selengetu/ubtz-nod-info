@@ -1,7 +1,7 @@
 <div class="body"></div>
         <div class="grad"></div>
         <div class="header">
-            <div><span>БАЯНТVМЭН ТАСГИЙН</span> <br><span>ОХУ БОЛОН ЕВРОПЫН ОРНУУДААС</span> <br><span>АЙСУЙ БУЙ МОНГОЛД БУУХ БОЛОН</span><br><span>МОНГОЛООР ДАМЖИН ӨНГӨРӨХ</span><br><span>АЧААНЫ БИЧИГ БАРИМТЫН САН</span></div>
+            <div><span>ОХУ БОЛОН ЕВРОПЫН ОРНУУДААС</span> <br><span>БАЯНТVМЭН ТАСАГТ</span> <br><span>АЙСУЙ БУЙ МОНГОЛД БУУХ БОЛОН</span><br><span>МОНГОЛООР ДАМЖИН ӨНГӨРӨХ</span><br><span>АЧААНЫ БИЧИГ БАРИМТЫН САН</span></div>
         </div>
         <br>
         <div class="login">
